@@ -1,5 +1,5 @@
 /*
- * Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ * Copyright nagarro.com, Inc. or its affiliates. All Rights Reserved.
  *
  * Licensed under the Apache License, Version 2.0 (the "License").
  * You may not use this file except in compliance with the License.
@@ -37,7 +37,7 @@ const DefaultFooter = (props) => {
   return (
     <React.Fragment>
       <span>
-        <a rel="noopener noreferrer" href="http://aws.amazon.com">AWS</a> &copy; Amazon.com, Inc.
+        <a rel="noopener noreferrer" href="#">nagarro</a> &copy; nagarro.com, Inc.
       </span>
       <span className="ml-auto">
         Version {version?.value} - {saasBoostEnvironment?.value}

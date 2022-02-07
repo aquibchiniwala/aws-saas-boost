@@ -1,5 +1,5 @@
 /*
- * Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ * Copyright nagarro.com, Inc. or its affiliates. All Rights Reserved.
  *
  * Licensed under the Apache License, Version 2.0 (the "License").
  * You may not use this file except in compliance with the License.
@@ -254,10 +254,10 @@ export default class SaasBoostSignIn extends SaasBoostAuthComponent {
                   >
                     <CardBody className="text-center">
                       <div>
-                        <h2>AWS SaaS Boost</h2>
+                        <h2>SaaSify</h2>
                         <div>
                           <img
-                            src="/saas-boost-login.png"
+                            src="/nagarro.png"
                             alt="SaasFactory"
                             width="80%"
                           />

@@ -1,5 +1,5 @@
 /*
- * Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ * Copyright nagarro.com, Inc. or its affiliates. All Rights Reserved.
  *
  * Licensed under the Apache License, Version 2.0 (the "License").
  * You may not use this file except in compliance with the License.
@@ -52,9 +52,9 @@ class DefaultHeader extends Component {
       <>
         <AppSidebarToggler className="d-lg-none" display="md" mobile />
         <AppNavbarBrand>
-          <img src="/saas-boost-logo.png" alt="logo" height="20" className="ml-4 mr-2"/>
-          <span style={{color: "#FF9900"}}><strong>AWS</strong></span>&nbsp;
-          <span style={{color: "#232F3E"}}>SaaS Boost</span>
+          <img src="/nagarro.png" alt="logo" height="20" className="ml-4 mr-2"/>
+          <span style={{color: "#FF9900"}}><strong>SaaSify</strong></span>&nbsp;
+          {/* <span style={{color: "#232F3E"}}>SaaS Boost</span> */}
         </AppNavbarBrand>
         <Nav className="ml-auto mr-2" navbar>
           <NavItem className="d-md-down-none">
