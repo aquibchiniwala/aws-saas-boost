@@ -22,7 +22,7 @@ export default function InstalledExtensionsComponent(props) {
     <Col xs={1} md={6} lg={6}>
       <Card className="pb-3 bg-white">
         <CardBody className="pb-0">
-          <h4>AWS Saas Boost Modules</h4>
+          <h4>SaaSify Modules</h4>
           <dl className="row">
             <dt className="col-sm-1 font-xl">
               <i className="icon icon-check text-success"></i>

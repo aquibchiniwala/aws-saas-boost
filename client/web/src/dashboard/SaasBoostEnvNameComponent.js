@@ -22,7 +22,7 @@ export default function SaasBoostEnvNameComponent(props) {
     <Col xs={1} md={3} lg={3}>
       <Card className="text-white pb-3 bg-cyan h-auto ">
         <CardBody className="pb-0">
-          <h4>AWS Saas Boost Environment </h4>
+          <h4>SaaSify Environment </h4>
           <dt>Name</dt>
           <dd>Production</dd>
           <dt>AWS Region</dt>

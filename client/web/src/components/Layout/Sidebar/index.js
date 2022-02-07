@@ -26,7 +26,7 @@ class Sidebar extends Component {
         <Container fluid>
           <Row>
             <Col className="pt-3 pl-4">
-              <h5>AWS SaaS Boost</h5>
+              <h5>SaaSify Boost</h5>
             </Col>
           </Row>
 
