@@ -160,7 +160,7 @@ export const DashboardComponent = (props) => {
                     <Col xs={6}>
                       <div className="callout callout-info">
                         <small className={"text-muted"}>
-                          AWS Saas Boost Environment
+                          SaaSify Environment
                         </small>
                         <br />
                         <strong className="h4">{saasBoostEnvironment}</strong>
